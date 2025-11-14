@@ -75,6 +75,6 @@ The system is built on a 5-step NLP pipeline:
 
 **Feedback for LD:** Provides a breakdown of content words vs. function words.
 
-**Feedback for LV):** Identifies overused words and suggests replacements.
+**Feedback for LV:** Identifies overused words and suggests replacements.
 
 **Feedback for LS:** Suggests more advanced vocabulary.
