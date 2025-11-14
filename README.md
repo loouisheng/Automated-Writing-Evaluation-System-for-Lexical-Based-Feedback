@@ -67,7 +67,7 @@ The system is built on a 5-step NLP pipeline:
   
   * Gradio: To create and host the simple, interactive web interface.
 
-## 6. Demo / Screenshots
+## 6. Demo
 
 ![Adobe Express - Video Project (1)](https://github.com/user-attachments/assets/94e980e1-d75d-4d10-896e-91c5ca4fcaf1)
 
